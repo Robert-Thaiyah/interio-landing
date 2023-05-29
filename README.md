@@ -32,7 +32,7 @@ The site will undergo changes as I learn new technologies.
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/personal-portfolio)
-- Live Site URL: [Livesite URL](https://robert-kibue.netlify.app/)
+- Live Site URL: [Livesite URL](https://interio-landing.netlify.app/)
 
 ## My process
 
